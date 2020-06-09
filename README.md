@@ -1,2 +1,3 @@
-#Practice
+Practice
+
 Simply A Practice Repo
